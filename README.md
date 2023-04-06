@@ -5,3 +5,9 @@ Portfolio of data science projects completed by me for academic, self learning, 
 * Email: 2) prathamesh.rege7@gmail.com (personal)
        
 * LinkedIn: https://www.linkedin.com/in/prathameshrege7
+
+## Core Competencies
+
+- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Big Data Analytics
+- **Languages**: Python (Pandas, Numpy, Pytorch, Scikit-Learn, Scipy, Keras, Matplotlib, Seaborn), Matlab, R (Dplyr, Tidyr, Caret, Ggplot2), SQL, C++
+- **Tools**: MySQL, Tableau, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel
