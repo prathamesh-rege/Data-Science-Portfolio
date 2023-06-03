@@ -17,3 +17,4 @@ Certifications
 - [Cognizant AI Forage Virtual Program](https://github.com/prime-netizen/Certificates/blob/main/CognizantAI_Forage_completion_certificate.pdf)
 - [LinkedIn PyTorch Essentials: Deep Learning](https://github.com/prime-netizen/Certificates/blob/main/PytorchEssential.png)
 - [Python for Data Science and Machine Learning Bootcamp](https://github.com/prime-netizen/Certificates/blob/main/UdemyPythonMLBootcamp.pdf)
+- [Kaggle - Intro to Machine Learning](https://github.com/prime-netizen/Certificates/blob/main/Kaggle/Prathamesh%20P.%20Rege%20-%20Intro%20to%20Machine%20Learning.png)
