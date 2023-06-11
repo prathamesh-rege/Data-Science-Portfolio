@@ -5,6 +5,8 @@ Portfolio of data science projects completed by me for academic, self learning, 
 * Email: 2) prathamesh.rege7@gmail.com (personal)
        
 * LinkedIn: https://www.linkedin.com/in/prathameshrege7
+* Kaggle: https://www.kaggle.com/prathameshprege![image](https://github.com/prime-netizen/Data-Science-Portfolio/assets/68123254/388ed553-a72e-442c-9127-efa4b319ef2f)
+
 
 ## Core Competencies
 
