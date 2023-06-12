@@ -22,3 +22,4 @@ Certifications
 - [Kaggle - Intro to Machine Learning](https://github.com/prime-netizen/Certificates/blob/main/Kaggle/Prathamesh%20P.%20Rege%20-%20Intro%20to%20Machine%20Learning.png)
 - [Kaggle - Pandas](https://github.com/prime-netizen/Certificates/blob/main/Kaggle/Prathamesh%20P.%20Rege%20-%20Pandas.png)
 - [Kaggle - Intro to Programming](https://github.com/prime-netizen/Certificates/blob/main/Kaggle/Prathamesh%20P.%20Rege%20-%20Intro%20to%20Programming.png)
+- [Kaggle - Intermediate Machine Learning](https://github.com/prime-netizen/Certificates/blob/main/Kaggle/Prathamesh%20P.%20Rege%20-%20Intermediate%20Machine%20Learning.png)
